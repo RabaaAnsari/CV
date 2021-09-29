@@ -1,2 +1,2 @@
-[DEMO](http://jquery2dotnet.github.io/bootstrap-cv/)
+[Click to open my CV]( https://rabaaansari.github.io/CV/)
 
